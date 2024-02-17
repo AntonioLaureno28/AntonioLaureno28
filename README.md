@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there;My+name+is+Antonio+Laureno)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there!;Welcome+to+my+Github)](https://git.io/typing-svg)
 
 ### Hi there! My name is Antonio Laureno and i am a computer engineering student at UFC!
 
