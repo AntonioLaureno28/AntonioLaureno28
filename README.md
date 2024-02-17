@@ -1,8 +1,13 @@
-### Hi there! My name is Antonio Laureno and i am a computer engineering student at UFC!
-
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there;My+name+is+Antonio+Laureno)](https://git.io/typing-svg)
 
+### Hi there! My name is Antonio Laureno and i am a computer engineering student at UFC!
+
+
+
 ![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonioLaureno28&show_icons=true&theme=radical)
+
+
+
 
 ### Tecnologies I work with:
 
